@@ -1,0 +1,40 @@
+{
+  "touser":"%s",
+  "template_id":"dYe35_CkByO0Tq9udu0gHCTFMEcCQw_siGYrokDX7PM",
+  "url":"%s",
+  "topcolor":"#FF0000",
+  "data":{
+    "first": {
+      "value":"%s",
+      "color":"#173177"
+    },
+    "FlightNo":{
+      "value":"%s",
+      "color":"#173177"
+    },
+    "DepAirport":{
+      "value":"%s",
+      "color":"#173177"
+    },
+    "ArrAirport":{
+      "value":"%s",
+      "color":"#173177"
+    },
+    "DepTime":{
+      "value":"%s",
+      "color":"#173177"
+    },
+    "ArrTime":{
+      "value":"%s",
+      "color":"#173177"
+    },
+    "beforeTrainNumber":{
+      "value":"%s",
+      "color":"#173177"
+    },
+    "remark":{
+      "value":"%s",
+      "color":"#ff0000"
+    }
+  }
+}
